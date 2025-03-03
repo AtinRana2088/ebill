@@ -36,7 +36,7 @@ This is a simple web application for generating and sending e-bills. Admins can 
 ## Project Structure
 ```
 📂 ebill
-│── LISENCE
+│── LICENSE
 │── app.py             # Flask Application
 │── admins.json        # Admin Login Credentials
 │── requirements.txt   # Dependencies
@@ -50,4 +50,4 @@ This is a simple web application for generating and sending e-bills. Admins can 
 This project is licensed under the **MIT License**.
 
 ---
-🚀 **Now your e-bill system is ready to use!**
+🚀 **Now your ebill system is ready to use!**
