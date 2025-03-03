@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 app = Flask(__name__)
-app.secret_key = "your_secret_key"  # Change this to a strong secret key
+app.secret_key = "your_secret_key"  # Change this to a strong secret key, The secret key is used by Flask to sign session cookies and other security-related functions. It ensures that session data (like logged-in user info) is secure and tamper-proof. Without a secret key, Flask won't allow session management.
 
 # Load admin credentials from JSON file
 def load_admins():
