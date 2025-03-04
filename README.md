@@ -22,7 +22,7 @@ This is a simple web application for generating and sending e-bills. Admins can 
    ```sh
    python app.py
    ```
-> **For App Password**, read: [How to generate an app password?](https://support.google.com/mail/thread/205453566/how-to-generate-an-app-password?hl=en)
+> **For App Password**, read: [How to generate an app password?](https://support.google.com/mail/thread/205453566/how-to-generate-an-app-password?hl=en) or directly create: [an app pasword here](https://myaccount.google.com/apppasswords)
 
 
 ## Admin Credentials Format (`admins.json`)
