@@ -4,7 +4,7 @@ This is a simple web application for generating and sending e-bills. Admins can 
 
 ## Features
 - **Admin Login:** Secure login with credentials stored in `admins.json`.
-- **Bill Generation:** Enter an amount, calculate GST (16%), and round off the total.
+- **Bill Generation:** Enter an amount, calculate GST which is originally set to 16% but is customizable, and rounds off the total.
 - **Email Sending:** Send bills via email using SMTP.
 - **Flash Messages:** Inform users about successful actions and errors.
 
